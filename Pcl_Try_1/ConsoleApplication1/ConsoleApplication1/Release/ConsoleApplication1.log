@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+ConsoleApplication1.cpp(7): fatal error C1083: 无法打开包括文件: “pcl/point_types.h”: No such file or directory
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: “CL.exe”已退出，代码为 2。
